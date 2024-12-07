@@ -16,12 +16,21 @@
 </div>
 <div id = "Skill Set" align = "center">
     <h1>
-    ![code](../code.png) Skill Set ![image](https://github.com/user-attachments/assets/eacefc12-9ae4-45f2-8268-feb77a4f3b84)
-        <p>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=50px/>
+        <img src= "https://github.com/RossJSupple/RossJSupple/blob/main/code.png" width=40px/>  Skill Set  <img src= "https://github.com/RossJSupple/RossJSupple/blob/main/code.png" width=40px/>
+        <p></p>
+        <p align="center" margin=50px>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=50px />
+            &nbsp;
+            &nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=50px/>
+            &nbsp;
+            &nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=50px/>
+            &nbsp;
+            &nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width=50px/>
+            &nbsp;
+            &nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=50px/>
         </p>
     </h1> 
