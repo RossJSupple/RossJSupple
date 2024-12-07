@@ -4,9 +4,9 @@
 
 <div id = "Header" align = "center">
     <h1>
-    :wave: About Me :wave:
+    :point_down: About Me :point_down:
     </h1>
-    <p1>
-    
+    <p>
+    d
     </p>
 </div>
