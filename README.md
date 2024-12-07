@@ -15,7 +15,7 @@
     </p>
     <h1></h1>
 </div>
-<div id = "Skill Set" align = "center" padding=60px>
+<div id = "Skill Set" align = "center">
     <h1>
     Skill Set
     <p>
@@ -53,5 +53,4 @@
     <p align = "center">
     I am a Computer Science Student
     </p>  
-</div>
 </div>
