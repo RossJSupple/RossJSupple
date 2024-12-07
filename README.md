@@ -15,7 +15,7 @@
     </p>
     <h1></h1>
 </div>
-<div id = "Skill Set" align = "center">
+<div id = "Skill Set" align = "center" padding=10px>
     <h1>
     Skill Set
     <p>
