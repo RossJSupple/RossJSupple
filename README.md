@@ -1,22 +1,23 @@
-`#0969DA`
+
 
 # Ross James Supple
 
 
 **` Computer Science Student (Aspiring Developer) `**
 
-
 <div id = "Header" align = "center">
     <h1>
-    :point_right: About Me :point_down:
+    👇 About Me 👇
+    </h1>
         <p align = "center">
             I am a Computer Science Student
         </p>
-    </h1>
+    <h1></h1>
 </div>
 <div id = "Skill Set" align = "center">
     <h1>
-    Skill Set
+    ![code](https://github.com/RossJSupple/images/blob/main/code.png) Skill Set ![image](https://github.com/user-attachments/assets/eacefc12-9ae4-45f2-8268-feb77a4f3b84)
+
         <p>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=50px/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=50px/>
@@ -29,25 +30,25 @@
 <div id = "What I am doing" align = "center">
     <h1>
     What I am doing
+    </h1> 
         <p align = "center">
             I am a Computer Science Student
         </p>   
-    </h1> 
 </div>
 <div id = "Recent Projects" align = "center">
     <h1>
     Recent Projects
+    </h1>   
         <p align = "center">
             I am a Computer Science Student
         </p> 
-    </h1>   
 </div>
 <div id = "Hobbies" align = "center">
     <h1>
     hobbies
+    </h1>  
         <p align = "center">
             I am a Computer Science Student
         </p>  
-    </h1>  
 </div>
 
