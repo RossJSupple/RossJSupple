@@ -1,8 +1,8 @@
 # Ross James Supple
 
-**` Computer Science Student `**
+**` Computer Science Student (Aspiring Developer)`**
 
-<h align = "centre">
-    <p About Me>
-    </p>
-</h>
+<p align = "center">
+    <h About Me>
+    </h>
+</p>
