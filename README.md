@@ -25,8 +25,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width=50px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=50px/>
     </p>
-    </h1>
-    <h1></h1>    
+    </h1> 
 </div>
 
 <div id = "What I am doing" align = "center">
