@@ -27,7 +27,6 @@
         </p>
         </h1> 
     </div>
-    
     <div id = "What I am doing" align = "center">
         <h1>
         What I am doing
@@ -36,7 +35,6 @@
         I am a Computer Science Student
         </p>   
     </div>
-    
     <div id = "Recent Projects" align = "center">
         <h1>
         Recent Projects
@@ -45,7 +43,6 @@
         I am a Computer Science Student
         </p> 
     </div>
-    
     <div id = "Hobbies" align = "center">
         <h1>
         hobbies
