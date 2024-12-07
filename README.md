@@ -5,7 +5,7 @@
 
 **` Computer Science Student (Aspiring Developer) `**
 
-
+<div style="background-color: #f0f0f0; padding: 20px;">
 <div id = "Header" align = "center">
     <h1>
     :point_right: About Me :point_down:
@@ -15,7 +15,7 @@
     </p>
     <h1></h1>
 </div>
-<div id = "Skill Set" align = "center" padding=10px>
+<div id = "Skill Set" align = "center" padding=60px>
     <h1>
     Skill Set
     <p>
@@ -53,4 +53,5 @@
     <p align = "center">
     I am a Computer Science Student
     </p>  
+</div>
 </div>
