@@ -29,7 +29,7 @@
 <div id = "What I am doing" align = "center">
     <h1>
     What I am doing
-        <p align = "center" font-size="small">
+        <p align = "center">
             I am a Computer Science Student
         </p>   
     </h1> 
