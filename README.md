@@ -5,7 +5,7 @@
 
 **` Computer Science Student (Aspiring Developer) `**
 
-<div style="background-color: #f0f0f0; padding: 20px;">
+<div style="background-color: #FFFFFF; padding: 20px;">
 <div id = "Header" align = "center">
     <h1>
     :point_right: About Me :point_down:
