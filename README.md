@@ -1,6 +1,6 @@
 # Ross James Supple
 
-**` Computer Science Student (Aspiring Developer)`**
+<div align = "center" >**` Computer Science Student (Aspiring Developer)`**</div>
 
 <div id = "Header" align = "center">
     <h1>
