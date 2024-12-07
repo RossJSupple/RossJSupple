@@ -4,6 +4,9 @@
 
 <div id = "Header" align = "center">
     <h1>
-    About Me
+    :wave: About Me :wave:
     </h1>
+    <p1>
+    
+    </p>
 </div>
