@@ -4,7 +4,7 @@
 **` Computer Science Student (Aspiring Developer)`**
 
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 
 <div id = "Header" align = "center">
     <h1>
@@ -18,6 +18,6 @@
 <div id = "Languages" align = "center">
     <h1>
     Languages
-    </h1>
-    <i class="devicon-cplusplus-plain colored"></i>
+    </h1>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </div>
