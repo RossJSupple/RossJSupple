@@ -3,7 +3,7 @@
 
 **` Computer Science Student (Aspiring Developer)`**
 
-![background](<iframe src="https://giphy.com/embed/l3q2Cy90VMhfoA9BC" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-black-blue-l3q2Cy90VMhfoA9BC">via GIPHY</a></p>)
+![background](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhyYXdrNnhpM25hYXFiaGI3c2w3eHR1dXZleW51cHJ6aTRvdjMyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2Cy90VMhfoA9BC/giphy.webp)
 
 <div id = "Header" align = "center">
     <h1>
