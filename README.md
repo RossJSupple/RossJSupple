@@ -3,13 +3,20 @@
 
 **` Computer Science Student (Aspiring Developer)`**
 
-![background](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhyYXdrNnhpM25hYXFiaGI3c2w3eHR1dXZleW51cHJ6aTRvdjMyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2Cy90VMhfoA9BC/giphy.webp)
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <div id = "Header" align = "center">
     <h1>
     :point_right: About Me :point_down:
     </h1>
-    <p>
+    <p align = "center">
     I am a Computer Science Student
     </p>
+</div>
+<div id = "Languages" align = "center">
+    <h1>
+    Languages
+    </h1>
+    <i class="devicon-cplusplus-plain colored"></i>
 </div>
