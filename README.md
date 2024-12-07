@@ -5,7 +5,7 @@
 
 **` Computer Science Student (Aspiring Developer) `**
 
-<div style="background-color: #FFFFFF; padding: 20px;">
+<div class="container min-h-screen bg-black bg-center bg-cover px-28 py-5 relative min-w-full">
     <div id = "Header" align = "center">
         <h1>
         :point_right: About Me :point_down:
