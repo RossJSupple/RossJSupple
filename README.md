@@ -2,7 +2,8 @@
 
 **` Computer Science Student (Aspiring Developer)`**
 
-<p align = "center">
-    <h About Me>
-    </h>
-</p>
+<div id = "Header" align = "center">
+    <h1>
+    About Me
+    </h1>
+</div>
