@@ -16,8 +16,7 @@
 </div>
 <div id = "Skill Set" align = "center">
     <h1>
-    ![code](https://github.com/RossJSupple/images/blob/main/code.png) Skill Set ![image](https://github.com/user-attachments/assets/eacefc12-9ae4-45f2-8268-feb77a4f3b84)
-
+    ![code](../code.png) Skill Set ![image](https://github.com/user-attachments/assets/eacefc12-9ae4-45f2-8268-feb77a4f3b84)
         <p>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=50px/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=50px/>
