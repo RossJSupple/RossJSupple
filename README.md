@@ -27,6 +27,9 @@
             &nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=50px/>
         </p>
+        <p>
+            <img alt="GitLab Language Count" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossJSupple&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
+        </p>
     </h1> 
 </div>
 <div id = "Recent Projects" align = "center">
@@ -36,14 +39,27 @@
        <div id="Project1">
            <p>Project 1: 
                <a href="https://github.com/RossJSupple/RaspberryPiDiceGame/">
-                   <img alt="Static Badge" src="https://img.shields.io/badge/DiceGame-blue?style=flat-square&labelColor=%239D00FF">
+                   <img alt="Static Badge" src="https://img.shields.io/badge/DiceGame-%23352bf0">
                </a>
+               - Dice Game made with Python that displayes the rolled number as LED'S using a GPIO Hat
            </p>
        </div>
-</div>
-
-</div>
-
+    <div id="Project1">
+           <p>Project 2: 
+               <a href="https://github.com/RossJSupple/CarSim/">
+                   <img alt="Static Badge" src="https://img.shields.io/badge/CarSim-%23fc6f03">
+               </a>
+               - Basic car simulator created using OOP in Python
+           </p>
+    </div>
+    <div id="Project1">
+           <p>Project 3: 
+               <a href="https://github.com/RossJSupple/CarSim/">
+                   <img alt="Static Badge" src="https://img.shields.io/badge/CarSim-%23fc6f03">
+               </a>
+               - Basic car simulator created using OOP in Python
+           </p>
+    </div>
 </div>
 <div id = "Hobbies" align = "center">
     <h1>
