@@ -1,8 +1,12 @@
 ![header](./banner.png)
-<div id = "Header" align = "center">
-    <h1>
-    👇 About Me 👇
-    </h1>
+<div id = "toc" align = "center">
+    <ul>
+        <summary>
+            <h1>
+                👇 About Me 👇
+            </h1>
+        </summary>
+    </ul>
         <p align = "center">
             I am a Computer Science Student
         </p>
@@ -35,10 +39,12 @@
         </p>
     </h1> 
 </div>
-<div id = "Recent Projects" align = "center">
-    <h1>
-    Recent Projects
-    </h1>   
+<div id = "toc" align = "center">
+    <ul>
+        <summary>
+            <h1>Recent Projects</h1>
+        </summary>
+    </ul>
        <div id="Project1">
            <p>Project 1: 
                <a href="https://github.com/RossJSupple/RaspberryPiDiceGame/">
@@ -72,10 +78,13 @@
            </p>
     </div>
 </div>
-<div id = "Hobbies" align = "center">
-    <h1>
-    hobbies
-    </h1>  
+<h1></h1>
+<div id = "toc" align = "center">
+    <ul>
+        <summary>
+            <h1> hobbies </h1>
+        </summary>
+    </ul>
         <p align = "center">
             I am a Computer Science Student
         </p>  
