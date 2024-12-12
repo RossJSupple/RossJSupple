@@ -28,7 +28,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=50px/>
         </p>
         <p>
-            <img alt="GitLab Language Count" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossJSupple&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
+            <img alt="GitLab Language Count" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossJSupple&theme=tokyonight">
         </p>
     </h1> 
 </div>
@@ -56,6 +56,14 @@
            <p>Project 3: 
                <a href="https://github.com/RossJSupple/RockPaperScissors/">
                    <img alt="Static Badge" src="https://img.shields.io/badge/RockPaperScissors-%23b0058e">
+               </a>
+               - Rock Paper Scissors game made using CPP
+           </p>
+    </div>
+    <div id="Project1">
+           <p>Project 4: 
+               <a href="https://github.com/RossJSupple/VectorPractice/">
+                   <img alt="Static Badge" src="https://img.shields.io/badge/VectorPractice-%23b0058e">
                </a>
                - Rock Paper Scissors game made using CPP
            </p>
