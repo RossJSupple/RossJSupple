@@ -68,7 +68,7 @@
                <a href="https://github.com/RossJSupple/VectorPractice/">
                    <img alt="Static Badge" src="https://img.shields.io/badge/VectorPractice-%23b0058e">
                </a>
-               - Rock Paper Scissors game made using CPP
+               - Very basic vector practice using pushback
            </p>
     </div>
 </div>
