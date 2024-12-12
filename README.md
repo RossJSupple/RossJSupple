@@ -29,20 +29,12 @@
         </p>
     </h1> 
 </div>
-<div id = "What I am doing" align = "center">
-    <h1>
-    What I am doing
-    </h1> 
-        <p align = "center">
-            I am a Computer Science Student
-        </p>   
-</div>
 <div id = "Recent Projects" align = "center">
     <h1>
     Recent Projects
     </h1>   
         <p align = "center">
-            I am a Computer Science Student
+            Project 1: <img alt="Static Badge" src="https://img.shields.io/badge/DiceGame-https%3A%2F%2Fgithub.com%2FRossJSupple%2FRaspberryPiDiceGame%2Fblob%2Fmain%2FDiceGame.py?style=flat-square&logoColor=%239D00FF">
         </p> 
 </div>
 <div id = "Hobbies" align = "center">
