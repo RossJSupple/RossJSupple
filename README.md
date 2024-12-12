@@ -49,7 +49,7 @@
                <a href="https://github.com/RossJSupple/CarSim/">
                    <img alt="Static Badge" src="https://img.shields.io/badge/CarSim-%23fc6f03">
                </a>
-               - Basic car simulator created using OOP in Python
+               - Basic car simulator created using OOP in Python, which reads instructions from a file
            </p>
     </div>
     <div id="Project1">
@@ -63,9 +63,9 @@
     <div id="Project1">
            <p>Project 4: 
                <a href="https://github.com/RossJSupple/PasswordGen/">
-                   <img alt="Static Badge" src="https://img.shields.io/badge/PasswordGen-%23b0058e">
+                   <img alt="Static Badge" src="https://img.shields.io/badge/PasswordGen-%23d6294e">
                </a>
-               - Simple Password Generator using Python
+               - Simple Password Generator using Python which will write the passwords to a new file
            </p>
     </div>
 </div>
