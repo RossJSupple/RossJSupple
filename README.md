@@ -54,10 +54,10 @@
     </div>
     <div id="Project1">
            <p>Project 3: 
-               <a href="https://github.com/RossJSupple/CarSim/">
-                   <img alt="Static Badge" src="https://img.shields.io/badge/CarSim-%23fc6f03">
+               <a href="https://github.com/RossJSupple/RockPaperScissors/">
+                   <img alt="Static Badge" src="https://img.shields.io/badge/RockPaperScissors-%23b0058e">
                </a>
-               - Basic car simulator created using OOP in Python
+               - Rock Paper Scissors game made using CPP
            </p>
     </div>
 </div>
