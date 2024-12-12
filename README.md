@@ -30,9 +30,6 @@
         <p>
             <img alt="GitLab Language Count" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossJSupple&theme=radical">
         </p>
-        <p>
-            <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=RossJSupple&show_icons=true&theme=radical">
-        </p>
     </h1> 
 </div>
 <div id = "Recent Projects" align = "center">
@@ -65,10 +62,10 @@
     </div>
     <div id="Project1">
            <p>Project 4: 
-               <a href="https://github.com/RossJSupple/VectorPractice/">
-                   <img alt="Static Badge" src="https://img.shields.io/badge/VectorPractice-%23b0058e">
+               <a href="https://github.com/RossJSupple/PasswordGen/">
+                   <img alt="Static Badge" src="https://img.shields.io/badge/PasswordGen-%23b0058e">
                </a>
-               - Basic vector practice using pushback
+               - Simple Password Generator using Python
            </p>
     </div>
 </div>
