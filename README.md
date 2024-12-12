@@ -33,9 +33,10 @@
     <h1>
     Recent Projects
     </h1>   
-        <p align = "center">
-            Project 1: <img alt="Static Badge" src="https://img.shields.io/badge/DiceGame-https%3A%2F%2Fgithub.com%2FRossJSupple%2FRaspberryPiDiceGame%2Fblob%2Fmain%2FDiceGame.py?style=flat-square&logoColor=%239D00FF">
-        </p> 
+        <div <a href="https://github.com/RossJSupple/RaspberryPiDiceGame">
+            <p>Priject 1: <img alt="Static Badge" src="https://img.shields.io/badge/DiceGame">
+            </p>
+        </div>
 </div>
 <div id = "Hobbies" align = "center">
     <h1>
