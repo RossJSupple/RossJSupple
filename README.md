@@ -33,10 +33,17 @@
     <h1>
     Recent Projects
     </h1>   
-        <div <a href="https://github.com/RossJSupple/RaspberryPiDiceGame">
-            <p>Priject 1: <img alt="Static Badge" src="https://img.shields.io/badge/DiceGame">
-            </p>
-        </div>
+       <div id="Project1">
+           <p>Project 1: 
+               <a href="https://github.com/RossJSupple/RaspberryPiDiceGame/">
+                   <img alt="Static Badge" src="https://img.shields.io/badge/DiceGame-blue?style=flat-square&labelColor=%239D00FF">
+               </a>
+           </p>
+       </div>
+</div>
+
+</div>
+
 </div>
 <div id = "Hobbies" align = "center">
     <h1>
