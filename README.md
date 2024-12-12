@@ -41,7 +41,7 @@
                <a href="https://github.com/RossJSupple/RaspberryPiDiceGame/">
                    <img alt="Static Badge" src="https://img.shields.io/badge/DiceGame-%23352bf0">
                </a>
-               - Dice Game made with Python that displayes the rolled number as LED'S using a GPIO Hat
+               - Dice Game made with Python that displays the rolled number as LED'S using a GPIO Hat
            </p>
        </div>
     <div id="Project1">
