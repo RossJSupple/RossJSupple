@@ -30,6 +30,9 @@
         <p>
             <img alt="GitLab Language Count" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossJSupple&theme=tokyonight">
         </p>
+        <p>
+            <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=RossJSupple&show_icons=true&theme=radical">
+        </p>
     </h1> 
 </div>
 <div id = "Recent Projects" align = "center">
