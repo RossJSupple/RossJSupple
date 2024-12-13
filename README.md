@@ -14,8 +14,8 @@
             which are three subjects I am heavily interested in.
             <br><br>
             My interest in quantum computing developed after reading and watching various content on the subject, and found myself with a fascination on how such small objects like electrons and photons
-            can have such a big impact on computation int the form of qubits which unlike classical computers which can only represent itslef as 1's and 0's, these qubits can be put in a state of superposition
-            which means they can represent 1 and 0 simultaneously allowing for an enhanced level of parallel programming.
+            can have such a big impact on computation in the form of qubits which unlike classical computers, which can only represent itslef as 1's and 0's, these qubits can be put in a state of superposition
+            which means they can represent 1 and 0 simultaneously allowing for more complex and enhanced levels ofcomputation.
         </p>
     <h1></h1>
 </div>
