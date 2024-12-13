@@ -74,7 +74,7 @@
                <a href="https://github.com/RossJSupple/RaspberryPiDiceGame/">
                    <img alt="Static Badge" src="https://img.shields.io/badge/DiceGame-%23352bf0">
                </a>
-               - Dice Game made with Python that displays the rolled number as LED'S using a GPIO Hat
+               - Dice Game made with Python that generate a random number for the player and will then represent the number through LED's on the GPIO hat for the RaspberyPi, functionality has also been extended to roll two dice and then display the sequence of light back to back.
            </p>
        </div>
     <div id="Project1">
@@ -82,7 +82,7 @@
                <a href="https://github.com/RossJSupple/CarSim/">
                    <img alt="Static Badge" src="https://img.shields.io/badge/CarSim-%23fc6f03">
                </a>
-               - Basic car simulator created using OOP in Python, which reads instructions from a file
+               - Basic car simulator created using OOP in Python, which reads instructions from a file such as whether to accelerate/decelerate, turn and change gears. if the instructions given constradict the previous instruction the car will crash.
            </p>
     </div>
     <div id="Project1">
@@ -90,7 +90,7 @@
                <a href="https://github.com/RossJSupple/RockPaperScissors/">
                    <img alt="Static Badge" src="https://img.shields.io/badge/RockPaperScissors-%23b0058e">
                </a>
-               - Rock Paper Scissors game made using CPP
+               - Rock Paper Scissors game made using CPP that will take user input and then generate a random number for the computer, the program will then perform checks to see whether the player or computer won.
            </p>
     </div>
     <div id="Project1">
@@ -98,7 +98,7 @@
                <a href="https://github.com/RossJSupple/PasswordGen/">
                    <img alt="Static Badge" src="https://img.shields.io/badge/PasswordGen-%23d6294e">
                </a>
-               - Simple Password Generator using Python which will write the passwords to a new file
+               - Simple Password Generator using Python which will write the passwords to a new file, the user may choose how many passwords to genereate and their length, the program will then ask whether to write the passwords into a file with the format of Name/Password, the file be placed in the same directory as the program.
            </p>
     </div>
 </div>
