@@ -19,6 +19,23 @@
         </p>
     <h1></h1>
 </div>
+<div id = "toc" align = "center">
+    <ul>
+        <summary>
+            <h1>
+                🤔 What am I doing? 🤔
+            </h1>
+        </summary>
+    </ul>
+        <p align = "center">
+            Currently working towards a Bachelors degree in Computer Science.
+            <br></br>
+            I am also designing a website for personal use that I will be able to use as a resume for future job applications.
+            <br></br>
+            In addition, I am also studying for some CyberSecurity Certifications as they will be useful in further developing my understanding of secure systems and software. 
+        </p>
+    <h1></h1>
+</div>
 <div id = "Skill Set" align = "center">
     <h1>
         <img src= "https://github.com/RossJSupple/RossJSupple/blob/main/code.png" width=40px/>  Skill Set  <img src= "https://github.com/RossJSupple/RossJSupple/blob/main/code.png" width=40px/>
@@ -96,11 +113,14 @@
         <p align = "center">
             My hobbies include:
             <ul style="list-style-type:circle text-align: center;">
-                <li>Football</li>
-                <li>Golf</li>
-                <li>Pool/Snooker</li>
-                <li>Video Games</li>
-                <li>Painting/Playing Warhammer</li>
+                <li>Football ⚽ - I have been playing football since I could walk and have captained a team for roughly 9 years, I enjoy football as it is a highly social game which can either be the most serious activity you ever do or can just be a laugh with friends and no two games are ever the same.</li>
+                <br></br>
+                <li>Golf ⛳ - I like to play golf as it is very relaxing activity and is highly skill based which provides an enjoyable challenge.</li>
+                <br></br>
+                <li>Pool/Snooker 🎱 - These are probably my favourite activity on this list as these combine the need for a high skill level and quick stregic thinking, as outsmarting your opponent and causing                                    them to make mistakes can be more rewarding than potting the balls.</li>
+                <br></br>
+                <li>Video Games 🎮 - They're fun 😄</li>
+                <br></br>
             </ul>
         </p>
     </div>
