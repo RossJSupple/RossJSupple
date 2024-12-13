@@ -8,7 +8,14 @@
         </summary>
     </ul>
         <p align = "center">
-            I am a Computer Science Student
+            My name is Ross, I am currently a Computer Science student at the University of South Wales and hopefully on track to becoming a software developer.
+            I have been interested in computing since a young age and would develop a keen interest into how they function both mechanically and through their use of software,
+            however a more recent interest of mine is quantum computing as it is such a rich and interesting field that combines the studies of computing, mathematics and quantum mechanics,
+            which are three subjects I am heavily interested in.
+            <br><br>
+            My interest in quantum computing developed after reading and watching various content on the subject, and found myself with a fascination on how such small objects like electrons and photons
+            can have such a big impact on computation int the form of qubits which unlike classical computers which can only represent itslef as 1's and 0's, these qubits can be put in a state of superposition
+            which means they can represent 1 and 0 simultaneously allowing for an enhanced level of parallel programming.
         </p>
     <h1></h1>
 </div>
@@ -79,14 +86,23 @@
     </div>
 </div>
 <h1></h1>
-<div id = "toc" align = "center">
+<div id = "Hobbies" align = "center">
+    <div id="toc" align = "center">
     <ul>
         <summary>
             <h1> hobbies </h1>
         </summary>
     </ul>
         <p align = "center">
-            I am a Computer Science Student
-        </p>  
+            My hobbies include:
+            <ul style="list-style-type:circle text-align: center;">
+                <li>Football</li>
+                <li>Golf</li>
+                <li>Pool/Snooker</li>
+                <li>Video Games</li>
+                <li>Painting/Playing Warhammer</li>
+            </ul>
+        </p>
+    </div>
 </div>
 
